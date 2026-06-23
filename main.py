@@ -1,0 +1,1 @@
+print('Нello from repository!'')
